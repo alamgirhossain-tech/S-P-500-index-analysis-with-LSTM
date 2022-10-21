@@ -1,1 +1,1 @@
-# S&P 500 index-analysis-with-LSTM
+# S&P 500 index analysis with LSTM
